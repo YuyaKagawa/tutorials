@@ -16,5 +16,5 @@ geoplot: 0.2.4
 matplotlib: 3.0.3  
 
 ## sample
-<img src="geoplot_sample.png">
+<img src="geoplot_sample.png" width=200>
 
