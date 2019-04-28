@@ -4,8 +4,8 @@ tutorials
 ## overview
 show how to use <code>basemap</code> in <code>mpl_toolkits.basemap</code>
 see details in https://matplotlib.org/basemap/index.html .  
-All comments in Japanese.
-
+All comments in Japanese.  
+<font color="red">IN PROGRESS</font>
 
 # geoplot
 ## overview
