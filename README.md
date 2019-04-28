@@ -2,7 +2,7 @@ tutorials
 
 # Basemap
 ## overview
-show how to use <code>basemap</code> in <code>mpl_toolkits.basemap</code>
+show how to use <code>basemap</code> in <code>mpl_toolkits.basemap</code>  
 see details in https://matplotlib.org/basemap/index.html .  
 All comments in Japanese.  
 <font color="red">IN PROGRESS</font>
