@@ -1,4 +1,2 @@
-# Google MapのAPIを使って地図を取得するノートブック
-google_map_api.ipynb
-# 上の結果の地図画像ディレクトリ
-maps/
+# 各種データはアップはしない
+data/*
